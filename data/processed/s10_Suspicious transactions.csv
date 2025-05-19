@@ -1,0 +1,200 @@
+"TransactionID","AccountID","TransactionAmount","TransactionDate","TransactionType","Location","Channel","CustomerAge","CustomerOccupation","TransactionDuration","LoginAttempts"
+"TX000008","AC00069","171.42","2023-05-08 17:47:59","Credit","Indianapolis","Branch",67,"Retired",291,1
+"TX000026","AC00041","7.49","2023-10-20 17:53:13","Credit","Houston","Online",65,"Retired",276,1
+"TX000027","AC00441","246.93","2023-04-17 16:37:01","Debit","Miami","ATM",23,"Student",158,5
+"TX000030","AC00313","56.17","2023-09-20 16:55:42","Debit","Detroit","Branch",27,"Student",283,1
+"TX000052","AC00482","424.56","2023-02-21 17:45:55","Debit","Omaha","Online",51,"Engineer",264,1
+"TX000074","AC00110","233.92","2023-10-20 16:54:28","Credit","Jacksonville","Online",26,"Student",280,1
+"TX000092","AC00310","223.85","2023-10-02 16:36:10","Debit","Kansas City","ATM",53,"Engineer",55,4
+"TX000094","AC00373","442.12","2023-12-21 16:37:03","Debit","Los Angeles","Online",19,"Student",260,1
+"TX000114","AC00121","213.76","2023-03-01 17:52:14","Credit","Dallas","ATM",78,"Retired",282,1
+"TX000133","AC00203","208.04","2023-11-20 17:10:02","Debit","Louisville","Online",47,"Engineer",273,1
+"TX000143","AC00163","227.14","2023-07-03 17:42:08","Debit","Charlotte","ATM",18,"Student",294,1
+"TX000147","AC00385","973.39","2023-08-30 17:23:20","Debit","Sacramento","Branch",77,"Retired",296,1
+"TX000148","AC00161","514.95","2023-04-13 18:37:48","Debit","New York","Online",41,"Doctor",142,5
+"TX000152","AC00242","332.93","2023-11-20 16:29:48","Credit","Albuquerque","Branch",35,"Engineer",293,1
+"TX000154","AC00442","496.03","2023-11-03 16:45:52","Debit","San Francisco","Branch",61,"Doctor",265,1
+"TX000162","AC00227","307.57","2023-01-09 16:12:01","Debit","Detroit","Branch",33,"Doctor",285,1
+"TX000167","AC00478","126.21","2023-02-14 16:07:01","Debit","Baltimore","Branch",75,"Retired",268,1
+"TX000185","AC00440","201.69","2023-01-03 16:46:36","Debit","Las Vegas","ATM",59,"Doctor",299,1
+"TX000227","AC00212","163.68","2023-09-28 16:20:57","Debit","San Diego","Branch",41,"Doctor",292,1
+"TX000243","AC00202","173.5","2023-10-23 17:16:20","Debit","Nashville","ATM",21,"Student",282,1
+"TX000267","AC00178","66.9","2023-04-17 16:50:45","Credit","Charlotte","Online",79,"Retired",129,4
+"TX000275","AC00454","1176.28","2023-12-20 16:08:02","Credit","Kansas City","ATM",54,"Engineer",174,5
+"TX000301","AC00119","211.36","2023-11-21 16:23:41","Credit","Fort Worth","Branch",51,"Engineer",286,1
+"TX000324","AC00248","138.12","2023-04-11 17:18:50","Credit","Los Angeles","Branch",53,"Doctor",281,1
+"TX000332","AC00140","126.81","2023-10-30 16:58:01","Debit","Philadelphia","Branch",26,"Engineer",290,1
+"TX000342","AC00171","26.06","2023-12-21 17:01:24","Debit","San Diego","ATM",65,"Doctor",283,1
+"TX000373","AC00069","157.37","2023-11-15 16:54:44","Credit","Dallas","Branch",42,"Doctor",289,1
+"TX000376","AC00316","1392.54","2023-11-20 16:51:14","Debit","El Paso","Branch",41,"Doctor",297,1
+"TX000395","AC00326","6.3","2023-12-14 18:52:54","Debit","Columbus","Branch",80,"Retired",283,5
+"TX000401","AC00145","194.85","2023-09-12 16:50:21","Debit","Jacksonville","Online",23,"Student",130,4
+"TX000413","AC00421","242.39","2023-11-20 16:29:28","Credit","San Antonio","ATM",18,"Student",271,1
+"TX000415","AC00495","83.5","2023-05-15 18:47:35","Debit","Dallas","Branch",61,"Retired",91,5
+"TX000416","AC00301","193.54","2023-10-24 16:43:03","Debit","Oklahoma City","Branch",80,"Retired",267,1
+"TX000429","AC00182","677.29","2023-05-01 18:28:00","Debit","Houston","Online",27,"Engineer",287,1
+"TX000449","AC00093","70.23","2023-09-13 16:18:07","Debit","Memphis","ATM",38,"Doctor",260,1
+"TX000455","AC00264","611.11","2023-10-18 18:32:31","Debit","Detroit","ATM",20,"Student",282,4
+"TX000460","AC00499","376.79","2023-01-30 17:47:18","Debit","Milwaukee","Branch",68,"Retired",265,1
+"TX000464","AC00417","302.16","2023-10-18 17:47:52","Debit","Kansas City","Online",80,"Retired",138,5
+"TX000472","AC00398","206.46","2023-11-27 18:26:02","Debit","Virginia Beach","ATM",65,"Retired",279,1
+"TX000479","AC00392","334.89","2023-07-20 18:23:13","Debit","Fort Worth","Online",21,"Student",260,1
+"TX000492","AC00318","505.19","2023-03-14 16:25:04","Debit","Kansas City","ATM",30,"Doctor",128,5
+"TX000509","AC00353","127.0","2023-09-15 17:09:41","Credit","Nashville","Branch",19,"Student",68,5
+"TX000513","AC00012","8.65","2023-06-05 17:08:37","Debit","Las Vegas","Online",48,"Doctor",273,1
+"TX000548","AC00456","97.09","2023-04-10 18:26:56","Debit","Fort Worth","ATM",24,"Student",202,4
+"TX000552","AC00465","106.16","2023-04-14 17:21:48","Debit","Phoenix","ATM",56,"Doctor",277,4
+"TX000563","AC00216","106.39","2023-02-13 18:42:09","Debit","Virginia Beach","Online",37,"Doctor",281,1
+"TX000589","AC00418","178.88","2023-06-19 17:31:08","Credit","Dallas","Branch",76,"Retired",93,4
+"TX000594","AC00039","139.57","2023-11-17 17:59:11","Debit","Fort Worth","ATM",19,"Student",263,3
+"TX000595","AC00051","312.47","2023-05-02 17:24:26","Debit","Milwaukee","ATM",49,"Engineer",148,4
+"TX000606","AC00312","7.31","2023-06-26 16:04:11","Debit","Las Vegas","Branch",78,"Retired",282,1
+"TX000608","AC00150","32.54","2023-07-04 16:25:35","Debit","Oklahoma City","Online",25,"Student",183,4
+"TX000639","AC00416","655.15","2023-01-02 16:22:54","Debit","Seattle","ATM",26,"Engineer",264,1
+"TX000666","AC00393","152.18","2023-08-07 16:57:22","Credit","Los Angeles","Online",39,"Engineer",176,4
+"TX000670","AC00023","126.22","2023-05-04 16:25:15","Debit","Atlanta","ATM",46,"Engineer",77,4
+"TX000680","AC00101","78.44","2023-11-21 17:25:30","Credit","San Jose","Online",52,"Retired",292,1
+"TX000682","AC00356","499.99","2023-08-02 16:01:17","Debit","San Jose","Branch",31,"Engineer",296,1
+"TX000686","AC00071","119.3","2023-08-28 16:08:54","Debit","Mesa","Branch",34,"Engineer",22,5
+"TX000692","AC00418","25.94","2023-10-16 18:53:31","Credit","San Jose","Online",58,"Retired",211,5
+"TX000694","AC00011","733.29","2023-03-15 18:42:16","Debit","Virginia Beach","ATM",52,"Doctor",94,5
+"TX000773","AC00093","827.14","2023-01-17 17:25:13","Debit","El Paso","Branch",36,"Engineer",265,4
+"TX000793","AC00468","253.55","2023-01-11 16:56:58","Debit","Jacksonville","ATM",28,"Engineer",85,5
+"TX000808","AC00316","668.67","2023-11-07 17:38:05","Debit","Detroit","Online",44,"Doctor",143,4
+"TX000813","AC00292","161.63","2023-12-25 16:32:44","Debit","San Jose","Online",46,"Doctor",276,1
+"TX000821","AC00339","383.69","2023-10-31 17:06:08","Debit","Colorado Springs","Online",54,"Engineer",285,1
+"TX000838","AC00169","39.21","2023-05-10 16:15:31","Debit","Miami","ATM",66,"Doctor",245,4
+"TX000851","AC00124","23.4","2023-02-08 18:27:49","Debit","El Paso","ATM",46,"Doctor",175,4
+"TX000852","AC00412","227.5","2023-03-13 16:59:33","Debit","Sacramento","Online",34,"Doctor",277,1
+"TX000861","AC00397","233.44","2023-01-20 16:23:48","Debit","Chicago","Online",20,"Student",297,1
+"TX000872","AC00482","154.32","2024-01-01 16:53:32","Credit","Tucson","ATM",38,"Engineer",269,1
+"TX000879","AC00366","1108.46","2023-08-31 16:16:15","Debit","Los Angeles","Branch",30,"Engineer",262,1
+"TX000899","AC00083","1531.31","2023-10-23 18:00:29","Debit","San Diego","Online",18,"Student",62,4
+"TX000901","AC00425","157.16","2023-03-13 17:34:30","Debit","New York","Branch",20,"Student",280,1
+"TX000905","AC00480","354.76","2023-05-17 16:30:05","Debit","Detroit","Branch",51,"Doctor",279,1
+"TX000910","AC00438","120.86","2023-11-16 17:57:45","Debit","Colorado Springs","Online",33,"Doctor",162,4
+"TX000916","AC00336","170.26","2023-09-25 16:58:25","Debit","Chicago","ATM",27,"Student",265,1
+"TX000917","AC00272","337.73","2023-05-23 17:12:39","Debit","San Antonio","Online",78,"Retired",107,4
+"TX000933","AC00200","76.51","2023-04-03 16:01:51","Credit","Mesa","Online",49,"Engineer",120,4
+"TX000954","AC00187","119.95","2023-04-10 17:53:04","Credit","Philadelphia","Branch",62,"Retired",47,5
+"TX000960","AC00477","199.02","2023-05-29 16:31:37","Debit","Houston","ATM",61,"Retired",269,1
+"TX000962","AC00174","353.59","2023-08-11 17:57:52","Credit","New York","Branch",52,"Retired",109,5
+"TX000966","AC00114","477.07","2023-11-27 16:30:37","Debit","Columbus","Online",27,"Engineer",278,1
+"TX000997","AC00475","135.85","2023-08-03 17:25:57","Debit","Fresno","Online",57,"Retired",269,1
+"TX001005","AC00183","55.12","2023-09-18 16:19:03","Credit","Houston","Online",34,"Engineer",261,1
+"TX001024","AC00194","146.92","2023-09-08 16:28:54","Debit","Portland","ATM",64,"Retired",272,1
+"TX001027","AC00204","184.97","2023-06-26 16:46:41","Debit","Denver","Branch",58,"Doctor",268,1
+"TX001043","AC00246","180.65","2023-12-04 17:54:09","Debit","Charlotte","Branch",22,"Student",38,5
+"TX001058","AC00191","83.07","2023-01-06 16:13:53","Debit","Miami","Branch",27,"Engineer",291,4
+"TX001061","AC00173","726.61","2023-11-03 16:31:22","Debit","Phoenix","ATM",18,"Student",277,1
+"TX001082","AC00200","146.01","2023-04-25 16:28:35","Debit","San Francisco","Online",26,"Student",269,1
+"TX001086","AC00154","7.82","2023-01-09 17:56:30","Debit","Boston","ATM",36,"Engineer",273,1
+"TX001091","AC00286","7.79","2023-06-16 17:33:15","Debit","Los Angeles","Branch",34,"Doctor",298,1
+"TX001122","AC00426","303.97","2023-02-02 16:55:25","Debit","Fort Worth","Online",24,"Student",77,5
+"TX001130","AC00262","316.56","2023-08-29 18:30:14","Debit","Denver","Online",28,"Engineer",261,1
+"TX001137","AC00032","341.67","2023-03-06 16:45:24","Debit","Omaha","Branch",53,"Retired",96,5
+"TX001168","AC00010","838.57","2023-06-26 16:08:25","Debit","Phoenix","ATM",41,"Doctor",273,1
+"TX001193","AC00498","841.5","2023-05-22 16:33:16","Credit","Atlanta","Branch",25,"Student",287,1
+"TX001214","AC00170","1192.2","2023-12-21 16:21:27","Credit","Jacksonville","Branch",60,"Retired",103,5
+"TX001225","AC00442","302.86","2023-07-03 18:56:03","Debit","Los Angeles","Online",55,"Doctor",275,1
+"TX001255","AC00070","142.19","2023-06-15 18:28:50","Debit","Houston","Branch",18,"Student",27,4
+"TX001261","AC00247","414.77","2024-01-01 17:37:04","Debit","San Francisco","Online",29,"Doctor",274,1
+"TX001264","AC00461","35.46","2023-03-23 16:16:29","Debit","Nashville","ATM",56,"Retired",285,1
+"TX001284","AC00410","170.19","2023-07-07 17:40:58","Credit","Los Angeles","Branch",27,"Student",156,5
+"TX001294","AC00200","190.17","2023-06-09 17:41:13","Debit","Baltimore","ATM",49,"Doctor",265,1
+"TX001315","AC00452","30.87","2023-07-12 16:50:42","Debit","Fresno","ATM",33,"Doctor",295,1
+"TX001326","AC00020","359.65","2023-01-12 17:58:56","Credit","Jacksonville","Online",25,"Student",289,1
+"TX001333","AC00051","186.55","2023-06-21 16:49:10","Debit","Philadelphia","Branch",48,"Engineer",288,1
+"TX001336","AC00007","90.88","2023-11-20 17:08:33","Debit","Colorado Springs","ATM",26,"Engineer",284,1
+"TX001364","AC00089","204.7","2023-09-21 16:08:00","Debit","Oklahoma City","Branch",49,"Doctor",95,5
+"TX001374","AC00267","10.31","2023-01-13 16:23:56","Debit","Louisville","Online",36,"Engineer",280,1
+"TX001378","AC00063","116.88","2023-10-04 17:10:02","Debit","Memphis","ATM",45,"Doctor",263,1
+"TX001389","AC00412","407.65","2023-08-07 17:17:34","Debit","Denver","ATM",25,"Student",263,1
+"TX001412","AC00374","68.28","2023-06-08 18:54:04","Debit","Boston","Online",56,"Engineer",293,1
+"TX001429","AC00369","11.02","2023-11-13 16:32:53","Debit","Tucson","Branch",19,"Student",280,1
+"TX001432","AC00341","172.29","2023-01-30 17:22:39","Debit","El Paso","ATM",36,"Engineer",283,1
+"TX001448","AC00080","991.82","2023-12-04 16:16:19","Debit","Milwaukee","Online",43,"Engineer",300,1
+"TX001458","AC00218","118.83","2023-06-26 16:10:25","Debit","Virginia Beach","Online",28,"Student",295,1
+"TX001499","AC00293","46.23","2023-05-29 17:45:26","Debit","Fresno","Online",77,"Retired",282,1
+"TX001535","AC00407","872.72","2023-04-24 16:47:17","Debit","Washington","Online",22,"Student",288,1
+"TX001557","AC00470","170.97","2023-05-01 17:04:30","Debit","Nashville","Branch",26,"Student",292,1
+"TX001558","AC00245","262.43","2023-06-13 17:26:54","Credit","San Diego","Online",37,"Doctor",274,5
+"TX001560","AC00011","31.53","2023-12-20 17:15:14","Debit","Kansas City","Online",25,"Student",283,1
+"TX001585","AC00358","434.17","2023-01-05 16:40:09","Debit","Atlanta","ATM",21,"Student",148,5
+"TX001602","AC00095","10.92","2023-10-20 17:48:44","Debit","Jacksonville","ATM",67,"Retired",268,1
+"TX001613","AC00102","24.86","2023-02-13 16:53:36","Debit","Jacksonville","Branch",58,"Engineer",292,1
+"TX001619","AC00305","108.75","2023-10-17 16:09:20","Debit","Houston","ATM",50,"Doctor",23,4
+"TX001628","AC00141","398.7","2023-08-28 16:02:11","Debit","Albuquerque","ATM",47,"Doctor",276,1
+"TX001636","AC00465","40.12","2023-04-19 17:03:11","Credit","Dallas","ATM",36,"Doctor",269,1
+"TX001641","AC00261","1.41","2023-06-07 17:02:33","Debit","Sacramento","ATM",53,"Retired",278,1
+"TX001642","AC00480","50.52","2023-04-06 16:03:23","Debit","Los Angeles","Branch",54,"Doctor",293,1
+"TX001678","AC00133","88.06","2023-10-27 17:53:06","Credit","Raleigh","Online",18,"Student",288,1
+"TX001689","AC00354","109.28","2023-06-09 16:20:12","Debit","San Diego","Online",36,"Engineer",112,4
+"TX001693","AC00232","25.77","2023-07-17 17:15:21","Credit","San Diego","Online",45,"Doctor",277,1
+"TX001697","AC00108","849.76","2023-08-16 16:28:30","Debit","Seattle","ATM",25,"Student",269,1
+"TX001704","AC00205","1294.81","2023-12-11 16:53:08","Credit","Washington","Branch",45,"Engineer",279,1
+"TX001709","AC00185","206.51","2023-12-18 17:09:29","Debit","Indianapolis","ATM",51,"Retired",275,1
+"TX001721","AC00197","201.53","2023-11-06 16:31:43","Debit","Tucson","Online",68,"Retired",287,1
+"TX001727","AC00120","85.73","2023-03-01 16:09:58","Debit","Virginia Beach","ATM",41,"Doctor",266,1
+"TX001732","AC00333","1.93","2023-10-19 18:06:08","Debit","Chicago","Branch",47,"Doctor",175,5
+"TX001734","AC00108","238.54","2023-04-07 16:04:01","Debit","Indianapolis","ATM",19,"Student",12,4
+"TX001738","AC00087","540.4","2023-02-22 16:42:17","Debit","Houston","Branch",45,"Doctor",272,1
+"TX001744","AC00432","165.8","2023-05-04 17:46:15","Debit","Nashville","Online",60,"Engineer",287,1
+"TX001766","AC00486","282.26","2023-06-26 16:55:17","Debit","Memphis","Online",37,"Engineer",278,1
+"TX001775","AC00358","17.79","2023-02-22 17:01:35","Debit","Jacksonville","Branch",61,"Retired",162,5
+"TX001781","AC00183","637.34","2023-09-01 16:19:43","Debit","Indianapolis","ATM",51,"Retired",278,1
+"TX001802","AC00018","331.32","2023-06-05 17:24:29","Debit","Sacramento","Branch",61,"Doctor",137,5
+"TX001804","AC00179","216.03","2023-10-27 18:28:05","Debit","Boston","ATM",42,"Doctor",300,1
+"TX001860","AC00029","116.97","2023-07-12 16:52:54","Debit","Oklahoma City","ATM",18,"Student",299,1
+"TX001862","AC00131","88.29","2023-01-20 16:46:06","Credit","Houston","Online",50,"Engineer",287,1
+"TX001877","AC00169","136.48","2023-08-14 16:46:26","Debit","Charlotte","Online",52,"Engineer",138,4
+"TX001885","AC00071","451.31","2023-12-04 16:57:39","Debit","Fort Worth","ATM",62,"Retired",166,5
+"TX001888","AC00206","74.11","2023-09-08 16:09:45","Credit","Virginia Beach","Online",69,"Retired",71,4
+"TX001910","AC00151","301.47","2023-01-26 16:13:15","Debit","Colorado Springs","Branch",21,"Student",291,1
+"TX001921","AC00431","233.71","2023-03-13 17:30:20","Debit","Jacksonville","Online",19,"Student",297,1
+"TX001947","AC00119","113.54","2023-09-22 16:42:46","Debit","Columbus","Online",38,"Engineer",273,1
+"TX001961","AC00377","301.51","2023-02-24 16:33:33","Debit","Charlotte","ATM",22,"Student",284,1
+"TX001966","AC00187","36.63","2023-05-04 17:02:55","Debit","Miami","ATM",75,"Retired",261,1
+"TX001970","AC00189","146.55","2023-08-03 18:35:54","Debit","Virginia Beach","Online",54,"Retired",124,5
+"TX001977","AC00006","173.13","2023-10-05 16:46:31","Credit","Atlanta","Online",20,"Student",288,1
+"TX001986","AC00245","77.44","2023-06-26 16:28:59","Debit","Washington","Branch",58,"Retired",268,1
+"TX001992","AC00329","259.49","2023-06-09 16:31:56","Debit","Austin","Online",72,"Retired",292,1
+"TX001997","AC00373","14.16","2023-01-09 16:49:07","Credit","Oklahoma City","Branch",74,"Retired",290,1
+"TX002007","AC00227","28.04","2023-02-15 16:37:09","Debit","Los Angeles","ATM",57,"Doctor",146,5
+"TX002008","AC00352","325.98","2023-07-20 16:58:39","Debit","Washington","ATM",19,"Student",277,1
+"TX002014","AC00139","510.7","2023-06-07 16:35:27","Credit","Nashville","Online",27,"Student",294,1
+"TX002016","AC00286","199.54","2023-10-10 17:24:33","Debit","Portland","Online",56,"Engineer",268,1
+"TX002035","AC00472","588.37","2023-01-05 17:48:29","Debit","Dallas","Online",28,"Student",284,1
+"TX002054","AC00331","58.32","2023-07-31 16:21:15","Credit","Louisville","Branch",29,"Engineer",275,4
+"TX002074","AC00228","441.26","2023-02-27 16:07:46","Credit","Tucson","Branch",58,"Doctor",87,5
+"TX002090","AC00076","45.9","2023-07-04 18:55:57","Debit","Columbus","Branch",56,"Engineer",264,1
+"TX002118","AC00186","257.6","2023-12-18 16:30:46","Credit","Fort Worth","Online",59,"Retired",293,1
+"TX002125","AC00039","737.46","2023-01-03 16:28:03","Credit","Albuquerque","Branch",53,"Doctor",75,4
+"TX002146","AC00116","5.29","2023-03-08 18:51:57","Debit","Indianapolis","Online",52,"Doctor",276,1
+"TX002149","AC00021","734.86","2023-12-08 16:36:30","Credit","Boston","Branch",48,"Engineer",290,1
+"TX002155","AC00157","481.53","2023-09-12 17:21:48","Debit","Atlanta","Branch",58,"Retired",277,1
+"TX002160","AC00216","624.0","2023-02-16 17:34:34","Debit","Houston","Branch",26,"Engineer",132,5
+"TX002162","AC00139","10.15","2023-02-23 16:51:34","Debit","Austin","ATM",59,"Doctor",58,5
+"TX002194","AC00101","54.91","2023-02-13 16:08:58","Credit","Columbus","ATM",41,"Engineer",275,1
+"TX002205","AC00358","474.77","2023-10-06 18:26:45","Debit","Boston","Online",46,"Engineer",284,1
+"TX002234","AC00277","118.69","2023-02-13 18:36:21","Debit","Omaha","Online",33,"Doctor",296,1
+"TX002235","AC00465","221.33","2023-10-18 18:17:05","Debit","Louisville","ATM",27,"Student",276,1
+"TX002244","AC00400","347.63","2023-12-13 16:41:13","Credit","Chicago","Online",25,"Student",272,1
+"TX002249","AC00429","199.7","2023-04-03 18:41:57","Debit","Indianapolis","ATM",43,"Engineer",285,1
+"TX002258","AC00056","74.67","2023-05-15 17:37:32","Debit","Indianapolis","ATM",43,"Engineer",283,1
+"TX002263","AC00279","15.81","2023-03-02 18:36:55","Debit","Oklahoma City","Branch",69,"Doctor",11,4
+"TX002289","AC00149","336.01","2023-11-09 18:45:10","Debit","Colorado Springs","Online",63,"Doctor",121,4
+"TX002310","AC00331","146.67","2023-10-31 16:05:00","Debit","Albuquerque","Online",20,"Student",273,1
+"TX002311","AC00243","176.52","2023-03-14 17:06:18","Credit","San Diego","Online",73,"Retired",94,5
+"TX002331","AC00415","69.38","2023-01-11 16:09:36","Debit","Detroit","Branch",69,"Doctor",280,2
+"TX002332","AC00315","75.43","2023-08-14 16:01:57","Debit","Fresno","ATM",77,"Retired",266,1
+"TX002347","AC00456","334.79","2023-11-20 17:51:05","Credit","Denver","Branch",69,"Doctor",292,1
+"TX002367","AC00010","281.91","2023-01-12 17:10:03","Debit","Denver","Branch",25,"Student",269,1
+"TX002372","AC00465","21.23","2023-09-11 16:35:15","Debit","Virginia Beach","ATM",23,"Student",103,4
+"TX002406","AC00103","385.35","2023-10-03 17:14:49","Debit","Miami","Branch",38,"Doctor",269,1
+"TX002418","AC00046","28.38","2023-10-03 16:39:18","Debit","Tucson","Branch",45,"Doctor",260,1
+"TX002424","AC00340","332.06","2023-06-21 16:38:54","Debit","Seattle","ATM",29,"Doctor",221,4
+"TX002446","AC00439","403.01","2023-09-04 17:32:35","Debit","Washington","Online",63,"Doctor",286,3
+"TX002458","AC00315","79.92","2023-02-06 17:32:11","Debit","Miami","ATM",44,"Engineer",274,2
+"TX002459","AC00312","430.83","2023-08-14 16:09:21","Debit","Los Angeles","Branch",18,"Student",292,1
+"TX002486","AC00051","193.38","2023-07-20 16:05:11","Debit","Memphis","ATM",18,"Student",285,1
