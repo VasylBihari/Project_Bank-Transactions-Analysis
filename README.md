@@ -12,7 +12,7 @@
 
 ## Структура
 - `data/`bank_transactions_data.xlsx : датасет з Kaggle https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection
-- `data/processed/`: Агреговані CSV.
+- `data/processed/`: Результати перевірки на некоректні, пропущені значення, формат значень, а також вже агреговані CSV.
 - `sql/`: SQL-запити.
 - `powerbi/`: Power BI файл.
 - `docs/`: Скріншоти та PDF-звіт.
